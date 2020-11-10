@@ -2,6 +2,13 @@ def find_item_by_name_in_collection(name, collection)
   # Implement me first!
   #
   # Consult README for inputs and outputs
+  item = ""
+  
+  test_cart.each do |name, collection|
+    if name == "Wine"
+  end
+end
+  return nil
 
 end
 
